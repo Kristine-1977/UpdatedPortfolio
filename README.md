@@ -11,7 +11,7 @@ Screenshot:
 
 Deployed Links:  
 Github Link: https://git@github.com:Kristine-1977/UpdatedPortfolio.git
-Deployed Link: https://github.com/Kristine-1977/UpdatedPortfolio
+Deployed Link:  https://kristine-1977.github.io/UpdatedPortfolio/.
 
 Required Criteria:
 The portfolio is to be responsive. Github must reflect pinned repositories and complete ReadMe files. An updated LinkedIn profile is also required. Github is also to show 
