@@ -9,7 +9,7 @@ CSS
 Screenshot:
 ![ScreenshotofUpdatedPortfolio](Assets/kristine-1977.github.io_UpdatedPortfolio_.png)
 Deployed Links:  
-Github Link: https://git@github.com:Kristine-1977/UpdatedPortfolio.git
+Github Link: https://github.com/Kristine-1977/UpdatedPortfolio
 Deployed Link: https://kristine-1977.github.io/UpdatedPortfolio/
 
 Required Criteria:
